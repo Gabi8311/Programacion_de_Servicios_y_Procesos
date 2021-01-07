@@ -1,0 +1,4 @@
+Implementa un programa que lance cuatro hilos, cada uno incrementará una variable
+contador de tipo entero, compartida por todos, 5000 veces y luego saldrá. No te
+preocupes de sincronizar los accesos a dicha variable. ¿Obtienes el resultado
+correcto? Ahora sincroniza el acceso a dicha variable y compara los resultados. 

@@ -1,0 +1,2 @@
+Implementa un programa que lance dos hilos, uno lee un fichero ya existente y el otro
+escribe en él, el programa debe estar sincronizado. 
